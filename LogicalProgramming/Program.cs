@@ -17,8 +17,15 @@ namespace LogicalProgramming
             obj1.PrintFibonnacciSeries();
 
 
+            // Checking perfact number
             PerfactNumber obj2 = new PerfactNumber();
             obj2.CheckPerfactNum();
+
+
+            // Checking prime nuber
+            PrimeNumber obj3 = new PrimeNumber();
+            obj3.checkPrimeNum();
+
         }
     }
 }
