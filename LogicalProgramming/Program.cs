@@ -15,6 +15,10 @@ namespace LogicalProgramming
             // PRINTING FIBONACCI SERIES 
             FibonacciSeries obj1 = new FibonacciSeries();
             obj1.PrintFibonnacciSeries();
+
+
+            PerfactNumber obj2 = new PerfactNumber();
+            obj2.CheckPerfactNum();
         }
     }
 }
