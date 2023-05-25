@@ -11,6 +11,10 @@ namespace LogicalProgramming
         static void Main(string[] args)
         {
             Console.WriteLine("Logical Programming Assignment...");
+
+            // PRINTING FIBONACCI SERIES 
+            FibonacciSeries obj1 = new FibonacciSeries();
+            obj1.PrintFibonnacciSeries();
         }
     }
 }
