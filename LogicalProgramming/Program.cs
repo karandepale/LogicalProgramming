@@ -26,6 +26,11 @@ namespace LogicalProgramming
             PrimeNumber obj3 = new PrimeNumber();
             obj3.checkPrimeNum();
 
+
+            // Reverse A Number
+            ReverseANumber obj4 = new ReverseANumber();
+            obj4.ReverseNum();
+
         }
     }
 }
