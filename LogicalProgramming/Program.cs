@@ -31,6 +31,10 @@ namespace LogicalProgramming
             ReverseANumber obj4 = new ReverseANumber();
             obj4.ReverseNum();
 
+            // Coupen Number
+            CoupenNumber obj5 = new CoupenNumber();
+            obj5.CoupenNumberr();
+
         }
     }
 }
